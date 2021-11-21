@@ -20,7 +20,7 @@
 
 # Project information
 site_name: Advit Deepak's Awesome Dashboard
-site_url: "" # ADD THIS LATER
+site_url: "https://advitdeepak.github.io/about-advit/"
 site_author: Advit Deepak
 site_description: >-
   Hello, hello! This is a small, digital repository about me, <strong>Advit Deepak</strong>.
@@ -28,8 +28,8 @@ site_description: >-
   <strong>things I love</strong>. From <em>LEGO door-closers</em> to <em>touchless technology</em>, who knows what you'll find! 😉😄
 
 # Repository
-repo_name: all-about-advit
-repo_url: https://github.com/AdvitDeepak/tg-student-dev # ADD THIS LATER
+repo_name: about-advit
+repo_url: https://github.com/AdvitDeepak/about-advit # ADD THIS LATER
 edit_uri: "" # ADD THIS LATER
 
 # Copyright

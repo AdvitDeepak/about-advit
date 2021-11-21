@@ -45,7 +45,7 @@ My partner and I developed a <font color=#0096FF>time-of-flight-based touchless<
 ??? danger "Media Montage - Using ToF Sensor for Touchless Computer Interaction"
 
     <center>
-    <iframe src=../../assets/Toffi_Poster.pdf width="100%" height="800"></iframe>
+    <iframe src=../assets/Toffi_Poster.pdf width="100%" height="800"></iframe>
 
     <iframe width="100%" height="425px" src="https://www.youtube.com/embed/GBEofB6hBao" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </center>
@@ -86,8 +86,8 @@ When asked to demonstrate an application of differential equations, I built a <f
 
     <center>
     ![Pend 1](../assets/images/pend1.jpg)
-    ![Pend 2](../assets/images/pend2.jpg)
-    ![Pend 3](../assets/images/pend3.jpg)
+    ![Pend 2](../assets/images/pend2.JPG)
+    ![Pend 3](../assets/images/pend3.JPG)
     </center>
 
 &nbsp; &nbsp;
