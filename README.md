@@ -1,15 +1,17 @@
-# Welcome to Advit's Awesome Dashboard
+# Welcome to Advit's Awesome Dashboard 🥳
 
-**Advit's Dashboard URL:** [https://google.com/](https://google.com/)
+**Advit's Dashboard URL:** [https://advitdeepak.github.io/about-advit/](https://advitdeepak.github.io/about-advit/)
 
-This site serves as a small digital repository of who I am, what I do, and the things I love
+This site serves as a small digital repository of *who I am, what I do, and the things I love*.
 
 Each tab is fleshed out below:
 
 - **About Me** - a lil background, education, work, volunteering,
 - **Projects** - academic, research, internship, and D-I-Y galore
 - **Interests** - a miscellaneous platter including FLL, Lego, Music
-- **Connect** - how to best get in touch 🥳
+- **Connect** - how to best get in touch with  me
+
+Happy exploring. Thanks for stopping by!
 
 &nbsp; &nbsp;
 
@@ -21,8 +23,3 @@ This site was created using MkDocs and is editable with using markdown.
 |                                                                        Learn More: [Markdown](https://python-markdown.github.io/)                                                                       |                                                                                             Learn More: [MkDocs](https://www.mkdocs.org/)                                                                                             |                                                                      Learn More: [Material](https://squidfunk.github.io/mkdocs-material/getting-started/)                                                                      |
 
 &nbsp; &nbsp;
-
-For any assistance, feel free to ask on the [TigerGraph Discord](https://discord.gg/F2c9b9v) or
-on the [TigerGraph Community Forum](https://community.tigergraph.com/).
-
-Happy developing! 🥳🥳🥳

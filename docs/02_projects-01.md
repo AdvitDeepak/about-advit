@@ -23,7 +23,7 @@ My partner and I worked on developing a <font color=#0096FF>Deep Q-Network Reinf
 ??? tip "Media Montage - Developing Reinforcement-Learning Traffic Control"
 
     <center>
-    <iframe src=../../assets/AiTC_Poster.pdf width="100%" height="800"></iframe>
+    <iframe src=../assets/AiTC_Poster.pdf width="100%" height="800"></iframe>
     </center>
 
 &nbsp; &nbsp;
