@@ -68,7 +68,10 @@ theme:
 
 # Customization
 extra:
+
   analytics: #
+    provider: google
+    property: G-43LNBYJX9X
     feedback:
       title: Was this page helpful?
       ratings:
