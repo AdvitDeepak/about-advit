@@ -12,17 +12,19 @@ I grew up in the Bay Area, with a front-yard in San Jose and a backyard in Los G
 
 Thanks for stopping by and checking out my dashboard!
 
+
 &nbsp; &nbsp;
 
-Here's a lil snippet of me exploring Santa Cruz's Garden of Eden 😁😁:
+Here's a lil collage of my adventures from this year 😁😁:
 
-![Advit's Pic 02](../assets/images/advit2.jpg)
+![Advit's Pic 02](../assets/images/advit-banner.SVG)
 
 Before, we begin, here's some *tips* on <font color=#0096FF>navigating this site</font>:
 
 * Use the **tabs** on the top, right, and left sides of the screen to click through
 * Check out the **search bar** on the top to quickly look up/jump to relevant pages
 * Explore the <font color=#0096FF>hyperlinked icons</font> and <font color=#0096FF>nav arrows</font> in the **black bar** (bottom of page)
+
 
 &nbsp; &nbsp;
 
