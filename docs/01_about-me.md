@@ -17,7 +17,7 @@ Thanks for stopping by and checking out my dashboard!
 
 Here's a lil collage of my adventures from this year 😁😁:
 
-![Advit's Pic 02](../assets/images/advit-banner.SVG)
+![Advit's Pic 02](../assets/images/advit-banner.svg)
 
 Before, we begin, here's some *tips* on <font color=#0096FF>navigating this site</font>:
 

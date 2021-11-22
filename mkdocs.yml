@@ -79,6 +79,9 @@ extra:
       link: https://www.instagram.com/advitdeepak/
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/advitdeepak/
+  analytics:
+    provider: google
+    property: G-43LNBYJX9X
 
 extra_css:
   - stylesheets/extra.css
@@ -143,9 +146,3 @@ nav:
 
   - Connect:
     - Connect: 04_community.md
-
-
-# Google Analytics
-google_analytics:
-  - !!python/object/apply:os.getenv ["GOOGLE_ANALYTICS_KEY"]
-  - auto
