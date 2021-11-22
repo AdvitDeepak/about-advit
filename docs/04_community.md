@@ -10,7 +10,7 @@ Additionally, here's some of the best ways to connect with me (just click on the
 
 <center>
 
-[<span style=font-size:7em;">:fontawesome-brands-medium:</font>](https://advit-deepak.medium.com/)  [<span style=font-size:7em;">:fontawesome-brands-instagram:</font>](https://advit-deepak.medium.com/)  [<span style=font-size:7em;">:fontawesome-brands-linkedin:</font>](https://advit-deepak.medium.com/)  [<span style=font-size:7em;">:fontawesome-brands-youtube:</font>](https://advit-deepak.medium.com/)  [<span style=font-size:7em;">:fontawesome-brands-github:</font>](https://advit-deepak.medium.com/)
+[<span style=font-size:7em;">:fontawesome-brands-medium:</font>](https://advit-deepak.medium.com/)  [<span style=font-size:7em;">:fontawesome-brands-instagram:</font>](https://www.instagram.com/advitdeepak/)  [<span style=font-size:7em;">:fontawesome-brands-linkedin:</font>](https://www.linkedin.com/in/advitdeepak/)  [<span style=font-size:7em;">:fontawesome-brands-youtube:</font>](https://www.youtube.com/channel/UCc7G2dvnfcEOH9mQgQ5iAPQ)  [<span style=font-size:7em;">:fontawesome-brands-github:</font>](https://github.com/AdvitDeepak)
 
 </center>
 

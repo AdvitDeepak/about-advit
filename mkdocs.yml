@@ -68,23 +68,7 @@ theme:
 
 # Customization
 extra:
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/AdvitDeepak
-    - icon: fontawesome/brands/medium
-      link: https://advit-deepak.medium.com/
-    - icon: fontawesome/brands/youtube
-      link: https://www.youtube.com/channel/UCc7G2dvnfcEOH9mQgQ5iAPQ
-    - icon: fontawesome/brands/instagram
-      link: https://www.instagram.com/advitdeepak/
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/advitdeepak/
-  analytics:
-    provider: google
-    property: G-43LNBYJX9X
-
-extra:
-  analytics:
+  analytics: #
     feedback:
       title: Was this page helpful?
       ratings:
@@ -96,11 +80,25 @@ extra:
         - icon: material/emoticon-sad-outline
           name: This page could be improved
           data: 0
-          note: >- #
-            Thanks for your feedback!
+          note: Thanks for your feedback!
+
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/AdvitDeepak
+    - icon: fontawesome/brands/medium
+      link: https://advit-deepak.medium.com/
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/channel/UCc7G2dvnfcEOH9mQgQ5iAPQ
+    - icon: fontawesome/brands/instagram
+      link: https://www.instagram.com/advitdeepak/
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/advitdeepak/
 
 extra_css:
   - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/feedback.js
 
 # Extensions
 markdown_extensions:
