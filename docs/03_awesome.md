@@ -22,6 +22,10 @@ I love a lot of different things! Here's a random dump... *(definitely updating 
 
 ??? note "Some of my recent creations (for fun, for class)"
 
+    >*Recently, my friend and I tried creating some Lego NFTs for fun. Check out [Lawless Legos](https://opensea.io/collection/lawless-legos) (hyperlinked) here!*
+
+    &nbsp; &nbsp;
+
     These first few were for Capstone Spanish, re-creating stories we had read in claass.
 
     1) ***Mar Adentro*** (Sea Inside, following Ramón Sampedro who seeks assisted suicide)

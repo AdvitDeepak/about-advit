@@ -4,8 +4,7 @@ template: overrides/main.html
 
 # **TigerGraph Projects** 🐯
 
-Here's what I've completed so far!
-
+Here's what I completed during my time at TigerGraph!
 
 ## **Visualizing Movie Recommendations** 📹
 
@@ -63,11 +62,6 @@ presented at <font color=#0096FF>Developer Day Conference</font> explaining how 
 
     </center>
 
-
-&nbsp; &nbsp;
-
-And here's what I'm currently working on!
-
 ## **TG's Student Dev Program** 🍎
 
 Launching TigerGraph's <font color=#0096FF>Student Developer Program</font>, enabling high school and college students globally to <font color=#0096FF>learn, develop, and share</font>
@@ -86,9 +80,10 @@ would new legislation affect emissions in different <font color=#0096FF>regions 
     ![Climate Schema](../assets/images/tigergraph/schema.png)
     </center>
 
-## **NLP Usage (Movie-Shazam)** 🔎
+## **NLP for Transcript Analysis** 🔎
 
-This one's still in the works! But imagine <font color=#0096FF>entering a basic description</font> (*ex. "scar-boy defeats nose-less snake-man"*)
-and the program accurately <font color=#0096FF>predicting the movie's name.</font>
+This program extracts insights from <font color=#0096FF>Zoom transcripts using NLTK</font>. Analyses run include sentiment, topics, and a knowledge graph representing the <font color=#0096FF>interactions among speakers.</font>
+
+[GitHub Repo](https://github.com/AdvitDeepak/transcript-analysis){ .md-button .md-button--secondary } [YouTube Demo](https://www.youtube.com/watch?v=8v3k_1K4B_Y){ .md-button .md-button--secondary } [Sample Transcript](https://github.com/AdvitDeepak/transcript-analysis/blob/master/a_raw_transcripts/sample01.vtt){ .md-button .md-button--secondary }
 
 &nbsp; &nbsp;

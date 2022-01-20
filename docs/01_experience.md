@@ -11,19 +11,31 @@ Here's a lil' collage capturing some of my experiences 😁😁
 I interned at **TigerGraph** and **UC Berkeley's OpenARK** team, volunteered for high school **student government** and the **Tech Interactive**, and
 worked at **Kumon Math & Reading**.
 
-&nbsp; &nbsp;
+Additionally, I'm currently interning as an **AI Projects Intern** with UCLA's ACM AI Committee.
+
+
+## **ACM AI @ UCLA** 🧠
+
+> Fast Facts: Fall '21 - Present, Creating projects and RL track
+
+With the AI Projects team, I've been helping <font color=#0096FF>guide groups of 30+ students</font> over the span of 10 weeks as they learn and develop CNN classifiers. Additionally, I helped create a <font color=#0096FF>Casssava Leaf Disease classifier</font> using Kaggle and PyTorch. Currently, our team is curating a brand new Reinforcement Learning track centered around the game <font color=#0096FF>*Super Auto Pets*</font>.
+
+[Cassava Leaf Detection Repo](https://github.com/uclaacmai/leaf-us-alone){ .md-button .md-button--secondary } [ACM AI Linktree](https://linktr.ee/acm_ai_ucla){ .md-button .md-button--secondary } [ACM AI GitHub](https://github.com/uclaacmai){ .md-button .md-button--secondary }
+
+
 
 ## **TigerGraph, Inc** 🐯
 
-> Fast Facts: Summer '21 - Present, Creating demos/applications/tutorials/talks
+> Fast Facts: Summer '21 - Winter '21', Creating demos/applications/tutorials/talks
 
-As a Developer Advocate Intern, I’m in charge of <font color=#0096FF> growing the size and richness </font> of TigerGraph’s Developer Community. I created a Movie Recommendation dashboard and several accompanying resources (tutorials, videos) to augment TigerGraph’s starter kits. To <font color=#0096FF>teach developers how to visualize graph</font> data, I developed TigerGraph’s Dash Class, a twelve-chapter tutorial website, using Python and Plotly Dash.
+As a Developer Advocate Intern, I was in charge of <font color=#0096FF> growing the size and richness </font> of TigerGraph’s Developer Community. I created a Movie Recommendation dashboard and several accompanying resources (tutorials, videos) to augment TigerGraph’s starter kits. To <font color=#0096FF>teach developers how to visualize graph</font> data, I developed TigerGraph’s Dash Class, a twelve-chapter tutorial website, using Python and Plotly Dash.
 
-Currently, I’m working on organizing a <font color=#0096FF>UCLA X TigerGraph Hackathon</font>, creating a Google Flutter and Firebase sample application for climate analytics, and documenting a full-stack application course. My most recent assignment involves creating a Community Development Program to <font color=#0096FF>increase Graph engagement</font> via student clubs, local meetups, and TED talks.
+Additionally, I worked on organizing a <font color=#0096FF>UCLA X TigerGraph Hackathon</font>, creating a Google Flutter and Firebase sample application for climate analytics, and documenting a full-stack application course. My most recent assignment involved creating a Community Development Program to <font color=#0096FF>increase Graph engagement</font> via student clubs, local meetups, and TED talks.
+
+As a final project, I created a Zoom meeting <font color=#0096FF>transcript analyzer</font> using Graph and NLP.
 
 [Check out my TigerGraph Projects Page](../02_projects-02/){ .md-button .md-button--secondary } [Learn more about TigerGraph](https://www.tigergraph.com/){ .md-button .md-button--secondary }
 
-&nbsp; &nbsp;
 
 ## **OpenARK Intern** 💻
 
@@ -35,7 +47,6 @@ As part of my high school Senior Project, I developed <font color=#0096FF>Touchl
 
 [Install Video](https://www.youtube.com/watch?v=EPWCvhgbDUo){ .md-button .md-button--secondary } [Weekly Blogs](https://siliconvalley.basisindependent.com/author/advitd/){ .md-button .md-button--secondary } [April Demo](https://www.youtube.com/watch?v=k-mFn8TXHwk){ .md-button .md-button--secondary } [Final Pres](https://www.youtube.com/watch?v=bBBakv3yQ00){ .md-button .md-button--secondary }
 
-&nbsp; &nbsp;
 
 ## **BISV Leadership** 📋
 
@@ -47,7 +58,6 @@ For any BISV '21 alumni, here's a few memories from senior year, curated by Lead
 
 [BISV '21 Graduation Slides](https://drive.google.com/file/d/10SvEGokmHkNtQSEIvu-meo8Jro90fAE0/view?usp=sharing){ .md-button .md-button--secondary } [BISV '21 Throwing Montage (Video)](https://drive.google.com/file/d/1O9pNZL_qBKFmL_e9nAbfp_ZgrxWORhdi/view?usp=sharing){ .md-button .md-button--secondary }
 
-&nbsp; &nbsp;
 
 ## **Tech Interactive** 🤖
 
@@ -57,7 +67,6 @@ As a Galleries and Buster Volunteer, I <font color=#0096FF>operated the museum�
 
 Additionally, I was proud to receive of the **2021 Janie & Wayne Lambert Scholarship** 😄
 
-&nbsp; &nbsp;
 
 ## **Kumon Tutoring** ✏️
 

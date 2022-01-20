@@ -79,9 +79,11 @@ and publishing my notes for each lecture (got some sweet pocket change 😅).
 
 ## **UCLA Undergrad (ongoing 😄)**
 
-And now, I'm here in the <font color=#0096FF>City of Angels</font>, majoring in **Computer Science + Eng**.
+And now, I'm here in the <font color=#0096FF>City of Angels</font>, majoring in **Computer Science + Eng**. Although I haven't wrapped up my first year yet, I've already learned quite a lot...
 
-Although I haven't wrapped up my first quarter yet, I've already learned quite a lot...
+
+In total, I've earned **19.00** credits and a GPA of **4.00 (UW)** so far.
+
 
 | Course Number |            Course Title            | Units | Course Number | Course Title                     | Units |
 |:-------------:|:----------------------------------:|-------|---------------|----------------------------------|-------|
@@ -99,8 +101,8 @@ Although I haven't wrapped up my first quarter yet, I've already learned quite a
 
     In addition, here's some of what I've been up to at UCLA:
 
-    * **Community Representative** - House 8, Canyon Point
-    * **ACM AI - Projects Intern** - Developing projects, guiding teams
+    * **Community Representative** - House 8, Canyon Point, Programming Committee (lounge decor, events, etc.)
+    * **ACM AI - Projects Intern** - Developing Cassava Leaf Detection, creating RL track, guiding teams
     * **ACM Member/Workshop Attendee** - AI, Cyber, Hack, General
     * **General Member** - Disney Club, Google Student Developer Club
 
