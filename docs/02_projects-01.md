@@ -2,10 +2,11 @@
 template: overrides/main.html
 ---
 
-# **Academic Projects** ⌨️
+# **Personal/HS Projects** ⌨️
 
 There's so much to talk about! Let's dive right in... 😎
 
+> Projects conducted with Cisco Research will be added in soon as a separate page! 
 
 ## **Developing Reinforcement-Learning Traffic Control** 🚦
 

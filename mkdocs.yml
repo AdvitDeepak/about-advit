@@ -141,9 +141,10 @@ nav:
     - Work & Volunteering: 01_experience.md
 
   - Projects:
-    - Academic Projects: 02_projects-01.md
-    - TigerGraph Projects: 02_projects-02.md
-    - Misc/D-I-Y Projects: 02_projects-03.md
+    - Personal Projects: 02_projects-01.md
+    - UCLA/ACM Projects: 02_projects-02.md
+    - TigerGraph Projects: 02_projects-03.md
+    - Misc/D-I-Y Projects: 02_projects-04.md
 
   - Interests:
     - Interests: 03_awesome.md

@@ -2,88 +2,58 @@
 template: overrides/main.html
 ---
 
-# **TigerGraph Projects** 🐯
+# **UCLA Projects** 🐻 
 
-Here's what I completed during my time at TigerGraph!
+Here are some of the projects I've done while at UCLA! 
 
-## **Visualizing Movie Recommendations** 📹
-
-A movie dashboard for TigerGraph's Starter Kit, made using <font color=#0096FF>Plotly Dash</font>.
-
-[YouTube Demo](https://www.youtube.com/watch?v=wHUr3NLw_wg){ .md-button .md-button--secondary } [Colab Notebook](https://colab.research.google.com/drive/1eF7SY_2D9ynAEHjmU3xjOLI7xWSR7FH0?usp=sharing){ .md-button .md-button--secondary } [Medium Blog](https://advit-deepak.medium.com/visualizing-movie-recommendations-using-plotly-and-tigergraph-4052eae27d82){ .md-button .md-button--secondary }
+> Projects conducted with ACM at UCLA will be added in soon!
 
 
-??? tip "Media Montage - Visualizing Movie Recommendations"
+## **Clique - Elevating Circles** 👨‍👩‍👧‍👦
 
-    <center>
-    ![General Page](../assets/images/tigergraph/generalPage.gif)
+> Fast Facts: Web App using React, Node, Firebase, Google Maps/Calendar APIs
 
-    ![Movie Page](../assets/images/tigergraph/moviePage.gif)
+Clique is a web application that leverages technology to <font color=#0096FF>elevate the experience of a user’s cliques</font> (a term used to describe an exclusive circle of people, such as friend groups). This implementation allows for <font color=#0096FF>easy organization and planning of events</font> using each member of the clique’s schedule and location. The application’s features include a <font color=#0096FF>personalized profile</font>, a <font color=#0096FF>shared calendar</font> with automatic event imports, and a <font color=#0096FF>greedy algorithm to determine optimal routes</font> given each members’ address, driving ability, and location destination. 
 
-    ![Person Page](../assets/images/tigergraph/personPage.gif)
-    </center>
-
-## **TigerGraph's Dash Class** 📚
-
-A <font color=#0096FF>twelve-chapter guide</font> to putting together one's dashboard using TigerGraph and Plotly Dash. An interactive
-*adventure* <font color=#0096FF>teaching users to create their own</font> Healthcare Dashboard.
-
-[Live Website](https://tigergraph-devlabs.github.io/tg-dash-class/){ .md-button .md-button--secondary } [Colab Notebook](https://colab.research.google.com/drive/1RRirZeUi_zSBEDS9lDJw1dsxth_V0f-9#scrollTo=6DlebXT4DMCf){ .md-button .md-button--secondary } [YouTube Demo](https://youtu.be/V7p1QnAmojk?t=1645){ .md-button .md-button--secondary }
+Given the difficulty in planning where and when to meet for large groups, we aimed to create a solution that would help <font color=#0096FF>automate the event-planning process</font>. Instead of wasting time on tedious discussions and debates, Clique helps <font color=#0096FF>easily determine the when, where, and how of meetups</font>. *This project was developed as part of COM SCI 35L - Software Construction Lab* 
 
 
-??? note "Media Montage - TigerGraph's Dash Class"
+[GitHub Repo](https://github.com/ggharibian/Clique){ .md-button .md-button--secondary } [Project Description](https://drive.google.com/file/d/1pDIfqEWY1QRO9qF9rH_L4OGnbc1pOUC4/view?usp=sharing){ .md-button .md-button--secondary }
 
-    <center>
-    ![General Page](../assets/images/tigergraph/01_homePage.jpg)
-
-    ![Movie Page](../assets/images/tigergraph/ch2_setup-sea.jpg)
-
-    ![Person Page](../assets/images/tigergraph/ch8_confronted-callbacks.jpg)
-
-    ![Person Page](../assets/images/tigergraph/ch12_destination-deployment.jpg)
-    </center>
-
-## **Misc - Fullstack, UCLA Hackathon, Developer Day** 📂
-
-Helped create <font color=#0096FF>Fullstack Course</font> (credit @ Kevin Hsu), organized a <font color=#0096FF>UCLA X TigerGraph Hackathon</font>, and
-presented at <font color=#0096FF>Developer Day Conference</font> explaining how to visualize Graph.
-
-[Fullstack Course](https://hhsu99.github.io/tg-fullstack-course/){ .md-button .md-button--secondary } [UCLA X TG Hackathon](https://www.eventbrite.com/e/ucla-hackathon-with-tigergraph-and-plotly-tickets-168660535201){ .md-button .md-button--secondary } [Dev Day](https://youtu.be/V7p1QnAmojk){ .md-button .md-button--secondary }
+&nbsp; &nbsp;
 
 
-??? info "Media Montage - Misc TigerGraph Work"
+## **Messages Wrapped - NLP Summarization Dashboard** 📱
 
-    <center>
-    ![Fullstack Course](../assets/images/tigergraph/misc_coursework.jpg)
+> Fast Facts: NLP Extraction, Analysis, and Summarization of Text Conversations
 
-    ![UCLA Hackathon](../assets/images/tigergraph/misc_presentation.jpg)
+Let’s face it: <font color=#0096FF>we’re not all great listeners</font>. With a world of information to keep track of, we can’t expect ourselves to remember <font color=#0096FF>every birthday, address, or favorite food</font>. Yet, showing loved ones that you can remember small details about them makes them feel heard.
 
-    ![Developer Day](../assets/images/tigergraph/misc_devday.png)
+Messages Wrapped is here to help! Employing various <font color=#0096FF>NLP techniques, this application extracts, analyzes, and stores information directly from one's direct messages</font>. Our team created it in hopes that we would never have to send another dreaded belated birthday text or ask a close friend what their dietary restrictions were for the hundredth time.
 
-    </center>
+Messages Wrapped is able to <font color=#0096FF>produce a fully-fledged statistical summary of a user’s direct messages</font>. Inspired by Spotify’s annual “Wrapped on Spotify”, our team has included a multitude of features <font color=#0096FF>including contacts ranked by message frequency, group chat activity, average response time, word boards, and more</font>. *This project was built using Python, NLTK, Plotly, Dash and developed for LA Hacks Spring '22*.
 
-## **TG's Student Dev Program** 🍎
 
-Launching TigerGraph's <font color=#0096FF>Student Developer Program</font>, enabling high school and college students globally to <font color=#0096FF>learn, develop, and share</font>
-the power of Graph technology.
+[Showcase Video](https://www.youtube.com/watch?v=A7trxj7MkdM){ .md-button .md-button--secondary } [GitHub Repo](https://github.com/AdvitDeepak/messages-wrapped){ .md-button .md-button--secondary }
 
-Although it's still a work in progress, here's a [Linktree](https://linktr.ee/TigerGraphStudents) and [Overview Website](https://advitdeepak.github.io/tg-student-dev/).
+&nbsp; &nbsp;
 
-## **Climate Analysis/Prediction** 📈
 
-Analyzing <font color=#0096FF>legislation's impact</font> on climate change, specifically emissions and energy usage. How
-would new legislation affect emissions in different <font color=#0096FF>regions based on historical data?</font>
+## **Sussy Symptoms - Automated Survey Completion** ⏳
 
-??? info "Media Montage - Climate Analysis/Prediction"
+> Fast Facts: Android app to automate UCLA COVID-19 Survey with Selenium 
 
-    <center>
-    ![Climate Schema](../assets/images/tigergraph/schema.png)
-    </center>
+Sussy Symptoms is an application meant to enhance the experience of UCLA students and faculty by <font color=#0096FF>streamlining the completion of the daily COVID-19 Symptom Monitoring Survey</font>.
 
-## **NLP for Transcript Analysis** 🔎
+Using <font color=#0096FF>Kotlin, Java, and Selenium</font>, our team prototyped an app with the following features:
 
-This program extracts insights from <font color=#0096FF>Zoom transcripts using NLTK</font>. Analyses run include sentiment, topics, and a knowledge graph representing the <font color=#0096FF>interactions among speakers.</font>
+- Scheduling - choose what <font color=#0096FF>days, times</font> to complete monitoring survey
+- Duo Push - uses <font color=#0096FF>SMS parsing</font> to pass Duo's Multi-Factor Authentication
+- Streamline - condenses questions into <font color=#0096FF>essentials</font>: are you sick today?
+- Automate - uses <font color=#0096FF>Selenium</font> to answer and complete the lengthy survey 
 
-[GitHub Repo](https://github.com/AdvitDeepak/transcript-analysis){ .md-button .md-button--secondary } [YouTube Demo](https://www.youtube.com/watch?v=8v3k_1K4B_Y){ .md-button .md-button--secondary } [Sample Transcript](https://github.com/AdvitDeepak/transcript-analysis/blob/master/a_raw_transcripts/sample01.vtt){ .md-button .md-button--secondary }
+This solution aims to <font color=#0096FF>resolve the inconveniences that this tedious chore brings</font> to students, especially when they may be running late for breakfast, classes, or other morning events. *This project was developed using Python, NLTK, Plotly, and Dash for LA Hacks Spring '22*.
+
+[Showcase Video](https://www.youtube.com/watch?v=lf0nFmbdNgo){ .md-button .md-button--secondary } [GitHub Repo](https://github.com/AdvitDeepak/sussy-symptoms){ .md-button .md-button--secondary }
 
 &nbsp; &nbsp;

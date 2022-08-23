@@ -8,17 +8,24 @@ Here's a lil' collage capturing some of my experiences 😁😁
 
 ![Experience Banner](../assets/images/ExperienceBanner.svg)
 
-I interned at **TigerGraph** and **UC Berkeley's OpenARK** team, volunteered for high school **student government** and the **Tech Interactive**, and
-worked at **Kumon Math & Reading**.
+I've interned with **Cisco Research**, **TigerGraph** and **UC Berkeley's Center for Augmented Cognition**. Additionally, I've been a proud volunteer at San Jose's **Tech Interactive**, served as part of **student government**, and worked at **Kumon Math & Reading**.
 
-Additionally, I'm currently interning as an **AI Projects Intern** with UCLA's ACM AI Committee.
+Currently, I'm an **AI Projects Officer** and the **Internal Affairs Director** at UCLA ACM.
+
+
+## **Cisco Research** 📚
+
+> Fast Facts: Spring '22 - Present, Developing NLP pipelines, Knowledge Graph generation
+
+As an NLP intern at Cisco Research, I'm currently developing a platform to <font color=#0096FF>assemble models, datasets, & evaluation metrics for custom, flexible NLP pipelines</font>. This tool will allow data scientists and researchers to easily build, test, and modify their custom pipelines and models. Additionally, I've been researching and implementing new methods for <font color=#0096FF>generating Knowledge Graphs from non-trivial text</font> (paper pending). *More info coming soon!*
+
 
 
 ## **ACM AI @ UCLA** 🧠
 
-> Fast Facts: Fall '21 - Present, Creating projects and RL track
+> Fast Facts: Fall '21 - Present, Creating projects and NLP, RL track
 
-With the AI Projects team, I've been helping <font color=#0096FF>guide groups of 30+ students</font> over the span of 10 weeks as they learn and develop CNN classifiers. Additionally, I helped create a <font color=#0096FF>Casssava Leaf Disease classifier</font> using Kaggle and PyTorch. Currently, our team is curating a brand new Reinforcement Learning track centered around the game <font color=#0096FF>*Super Auto Pets*</font>.
+With the AI Projects team, I've been helping <font color=#0096FF>guide groups of 30+ students</font> over the span of 10 weeks as they learn and develop CNN classifiers. Additionally, I helped create a <font color=#0096FF>Casssava Leaf Disease classifier</font> using Kaggle and PyTorch. Currently, our team is curating a brand new NLP track centered around Quora's <font color=#0096FF>*Insincere Question Classifier*</font> challenge.
 
 [Cassava Leaf Detection Repo](https://github.com/uclaacmai/leaf-us-alone){ .md-button .md-button--secondary } [ACM AI Linktree](https://linktr.ee/acm_ai_ucla){ .md-button .md-button--secondary } [ACM AI GitHub](https://github.com/uclaacmai){ .md-button .md-button--secondary }
 

@@ -2,93 +2,88 @@
 template: overrides/main.html
 ---
 
-# **Misc/DIY Projects**
+# **TigerGraph Projects** 🐯
 
-## **FIRST Lego League** ⚙️
+Here's what I completed during my time at TigerGraph!
 
-FIRST Lego League (FLL) is a competition where teams <font color=#0096FF>build and program a Lego robot to solve missions (robot game) and brainstorm a solution to each year’s themed challenge (project)</font>. For five years, I participated in FLL, learning about engineering, teamwork, and problem-solving. Our team grew and adapted to overcome challenges. We won several awards and even travelled to <font color=#0096FF>Missouri and West Virginia to participate in the internationals.</font>
+## **Visualizing Movie Recommendations** 📹
 
-Upon aging out of competition, I helped coach my brother's team. I taught engineering concepts (for example, using gravity as an extra “motor”), helped them learn to work together, and gave them  feedback on their research project. Additionally, my former team and I presented at <font color=#0096FF>community STEM nights</font> and advised local FLL teams with tips & tricks.
+A movie dashboard for TigerGraph's Starter Kit, made using <font color=#0096FF>Plotly Dash</font>.
 
-### **TrashTrek - TrashApp** 🗑️
-
-> Fast Facts: 2014-2015 Competition Season, focused on improving/reducing Trash
-
-[Article](https://www.times-standard.com/2016/02/11/san-jose-team-of-almaden-middle-schoolers-to-compete-in-the-olympics-for-robots/){ .md-button .md-button--secondary } [Newspaper Cover](https://drive.google.com/file/d/1oAWWeyNU0ykc4ss1cazXiRdYxqAh1a2w/view?usp=sharing){ .md-button .md-button--secondary } [Robot Game](https://www.youtube.com/watch?v=-t_9EL6hdks){ .md-button .md-button--secondary } [Slides](https://drive.google.com/file/d/1kiaOAMnsBDTXYJ2mziQ6DqvyYcsdMIB8/view?usp=sharing){ .md-button .md-button--secondary }
+[YouTube Demo](https://www.youtube.com/watch?v=wHUr3NLw_wg){ .md-button .md-button--secondary } [Colab Notebook](https://colab.research.google.com/drive/1eF7SY_2D9ynAEHjmU3xjOLI7xWSR7FH0?usp=sharing){ .md-button .md-button--secondary } [Medium Blog](https://advit-deepak.medium.com/visualizing-movie-recommendations-using-plotly-and-tigergraph-4052eae27d82){ .md-button .md-button--secondary }
 
 
-
-### **Animal Allies - AnimalApp** 🐶
-
-> Fast Facts: 2015-2016 Competition Season, focused on improving lives of Animals and Pets
-
-[Robot Game](https://www.youtube.com/watch?v=toFJO8uPQAM){ .md-button .md-button--secondary } [Slides](https://drive.google.com/file/d/1Fhi7ov2pzfd2IW2Btf5UYUdNaYXuva0p/view?usp=sharing){ .md-button .md-button--secondary } [Official TechMagic (Our Team!) Site](https://flltechmagic.wixsite.com/6952){ .md-button .md-button--secondary }
-
-&nbsp; &nbsp;
-
-## **Personal Projects** 😮
-
-Here are some of the personal creations I've made in my free time!
-
-### **Automatic Door Closer** 🔧
-
-> Fast Facts: Gravity-powered door closing device using LEGOs and pulleys
-
-At home, my mischievous younger brother would purposely leave my door open 🙄. So, using <font color=#0096FF>Legos, fishing line, and a small wooden weight</font>, I defended my room by designing and installing a pulley system that would automatically close my door. The door swinging open pulled the weight up. When the handle was released, gravity pulled the weight down, thereby closing my door. It was <font color=#0096FF>inexpensive, inconspicuous, and green</font> (no electricity needed!).
-
-[Medium Blog](https://advit-deepak.medium.com/making-a-fully-automatic-gravity-powered-door-closer-a28445c3e763){ .md-button .md-button--secondary } [Building Instructions](https://advit-deepak.medium.com/building-instructions-for-gravity-powered-door-closer-57e517182729){ .md-button .md-button--secondary } [Project Writeup](https://drive.google.com/file/d/1fslQ4Xt8TqX58xqO80U8mVJRjjedSx4X/view?usp=sharing){ .md-button .md-button--secondary }
-
-??? bug "Media Montage - Automatic Door Closer"
+??? tip "Media Montage - Visualizing Movie Recommendations"
 
     <center>
-    ![Door1](../assets/images/diy/door1.jpg)
+    ![General Page](../assets/images/tigergraph/generalPage.gif)
 
-    ![Door2](../assets/images/diy/door2.jpg)
+    ![Movie Page](../assets/images/tigergraph/moviePage.gif)
+
+    ![Person Page](../assets/images/tigergraph/personPage.gif)
     </center>
 
-&nbsp; &nbsp;
+## **TigerGraph's Dash Class** 📚
 
-### **Presents/Surprises** 🎁
+A <font color=#0096FF>twelve-chapter guide</font> to putting together one's dashboard using TigerGraph and Plotly Dash. An interactive
+*adventure* <font color=#0096FF>teaching users to create their own</font> Healthcare Dashboard.
 
-> Fast Facts: A collection of miscellaneous D-I-Y projects that I put together
+[Live Website](https://tigergraph-devlabs.github.io/tg-dash-class/){ .md-button .md-button--secondary } [Colab Notebook](https://colab.research.google.com/drive/1RRirZeUi_zSBEDS9lDJw1dsxth_V0f-9#scrollTo=6DlebXT4DMCf){ .md-button .md-button--secondary } [YouTube Demo](https://youtu.be/V7p1QnAmojk?t=1645){ .md-button .md-button--secondary }
 
-* **Ferrero-Rocher Pineapple** - Made w/ Ferrero-Rochers and a Starbucks Drink
 
-??? info "Sneak Peek - Ferrero-Rocher Pineapple"
+??? note "Media Montage - TigerGraph's Dash Class"
 
     <center>
-    ![Pineapple1](../assets/images/diy/pineapple.jpg)
+    ![General Page](../assets/images/tigergraph/01_homePage.jpg)
+
+    ![Movie Page](../assets/images/tigergraph/ch2_setup-sea.jpg)
+
+    ![Person Page](../assets/images/tigergraph/ch8_confronted-callbacks.jpg)
+
+    ![Person Page](../assets/images/tigergraph/ch12_destination-deployment.jpg)
     </center>
 
-* **Now that we've broken the ice?** - An ice-block with a note frozen inside
+## **Misc - Fullstack, UCLA Hackathon, Developer Day** 📂
 
-??? info "Sneak Peek - Broken the Ice"
+Helped create <font color=#0096FF>Fullstack Course</font> (credit @ Kevin Hsu), organized a <font color=#0096FF>UCLA X TigerGraph Hackathon</font>, and
+presented at <font color=#0096FF>Developer Day Conference</font> explaining how to visualize Graph.
+
+[Fullstack Course](https://hhsu99.github.io/tg-fullstack-course/){ .md-button .md-button--secondary } [UCLA X TG Hackathon](https://www.eventbrite.com/e/ucla-hackathon-with-tigergraph-and-plotly-tickets-168660535201){ .md-button .md-button--secondary } [Dev Day](https://youtu.be/V7p1QnAmojk){ .md-button .md-button--secondary }
+
+
+??? info "Media Montage - Misc TigerGraph Work"
 
     <center>
-    ![Ice1](../assets/images/diy/ice1.jpg)
-    ![Ice2](../assets/images/diy/ice2.jpg)
+    ![Fullstack Course](../assets/images/tigergraph/misc_coursework.jpg)
+
+    ![UCLA Hackathon](../assets/images/tigergraph/misc_presentation.jpg)
+
+    ![Developer Day](../assets/images/tigergraph/misc_devday.png)
+
     </center>
 
-* **Engraved Treehouse** - Popsicle sticks, chiesels, and tree branches
+## **TG's Student Dev Program** 🍎
 
-??? info "Sneak Peek - Engraved Treehouse"
+Launching TigerGraph's <font color=#0096FF>Student Developer Program</font>, enabling high school and college students globally to <font color=#0096FF>learn, develop, and share</font>
+the power of Graph technology.
+
+Although it's still a work in progress, here's a [Linktree](https://linktr.ee/TigerGraphStudents) and [Overview Website](https://advitdeepak.github.io/tg-student-dev/).
+
+## **Climate Analysis/Prediction** 📈
+
+Analyzing <font color=#0096FF>legislation's impact</font> on climate change, specifically emissions and energy usage. How
+would new legislation affect emissions in different <font color=#0096FF>regions based on historical data?</font>
+
+??? info "Media Montage - Climate Analysis/Prediction"
 
     <center>
-    ![Tree1](../assets/images/diy/tree1.jpg)
-    ![Tree2](../assets/images/diy/tree2.jpg)
-    ![Tree3](../assets/images/diy/tree3.jpg)
-    ![Tree4](../assets/images/diy/tree4.jpg)
+    ![Climate Schema](../assets/images/tigergraph/schema.png)
     </center>
 
-* **Photo Mosaic** - Small 4X6s coming together to make wall-sized image
+## **NLP for Transcript Analysis** 🔎
 
-??? info "Sneak Peek - Photo Mosaic"
+This program extracts insights from <font color=#0096FF>Zoom transcripts using NLTK</font>. Analyses run include sentiment, topics, and a knowledge graph representing the <font color=#0096FF>interactions among speakers.</font>
 
-    <center>
-      **The following images have been blurred for privacy purposes!**
-
-    ![Mosaic1](../assets/images/diy/b_mosaic1.png)
-    ![Mosaic2](../assets/images/diy/b_mosaic2.png)
-    </center>
+[GitHub Repo](https://github.com/AdvitDeepak/transcript-analysis){ .md-button .md-button--secondary } [YouTube Demo](https://www.youtube.com/watch?v=8v3k_1K4B_Y){ .md-button .md-button--secondary } [Sample Transcript](https://github.com/AdvitDeepak/transcript-analysis/blob/master/a_raw_transcripts/sample01.vtt){ .md-button .md-button--secondary }
 
 &nbsp; &nbsp;

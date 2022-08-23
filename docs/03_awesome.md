@@ -4,7 +4,9 @@ template: overrides/main.html
 
 # **Interests** 😋
 
-I love a lot of different things! Here's a random dump... *(definitely updating soon)*
+I love a lot of different things! Here's a random dump... 
+
+> Last modifed in early 2021... much-needed updates coming soon!  
 
 ## **Stuff I Like** 🤗
 

@@ -6,7 +6,7 @@ template: overrides/main.html
 
 <span style=font-size:1.5em;">Hi, I'm Advit! <span class="wave">👋</span> </span>
 
-I grew up in the Bay Area, with a front-yard in San Jose and a backyard in Los Gatos 😅. Now, I'm here as a <font color=#0096FF>Computer Science and Engineering student</font> at UCLA 🐻 (class of 2025).
+I grew up in the Bay Area, with a front-yard in San Jose and a backyard in Los Gatos 😅. Now, I'm here as a <font color=#0096FF>Computer Science student</font> at UCLA 🐻 (class of 2025).
 
 > *Is NorCal or SoCal better? I guess I'm still figuring that one out...*
 

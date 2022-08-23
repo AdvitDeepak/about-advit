@@ -79,20 +79,23 @@ and publishing my notes for each lecture (got some sweet pocket change 😅).
 
 ## **UCLA Undergrad (ongoing 😄)**
 
-And now, I'm here in the <font color=#0096FF>City of Angels</font>, majoring in **Computer Science + Eng**. Although I haven't wrapped up my first year yet, I've already learned quite a lot...
+And now, I'm here in the <font color=#0096FF>City of Angels</font>, majoring in **Computer Science**. Although I'm only a quarter of the way there, I've already learned quite a lot...
 
 
-In total, I've earned **19.00** credits and a GPA of **4.00 (UW)** so far.
+In total, I've earned **51.00** credits and a GPA of **3.98 (UW)** so far.
 
 
 | Course Number |            Course Title            | Units | Course Number | Course Title                     | Units |
 |:-------------:|:----------------------------------:|-------|---------------|----------------------------------|-------|
 |    MATH 31A   | Differential and Integral Calculus |  4.0  | COMSCI 1      | Freshman CS Seminar              | 1.0   |
 |    MATH 31B   |   Integration and Infinite Series  |  4.0  | COMSCI 31     | Intro to COM SCI 1               | 4.0   |
-|    MATH 32A   |    Calculus of Several Variables   |  4.0  | COMSCI 32     | Intro to COM SCI 2               | 4.0   |
-|    MATH 32B   |    Calculus of Several Variables   |  4.0  | COMSCI 35L    | Software Construction Lab        | 4.0   |
-|    MATH 61    |         Discrete Structures        |  5.0  | COMSCI 181    | Formal Language, Automata Theory | 5.0   |
-|    PHYS 1A    |              Mechanics             |  5.0  | ENGR 96       | Autonomous Rover                 | 2.0   |
+|    MATH 32A   |    Calculus of Several Variables   |  4.0  | COMSCI 32     | Data Structures & Algorithms     | 4.0   |
+|    MATH 32B   |    Calculus of Several Variables   |  4.0  | COMSCI 33     | Computer Organization            | 5.0   | 
+|    MATH 33B   |        Differential Equations      |  4.0  | COMSCI 35L    | Software Construction Lab        | 4.0   |
+|    MATH 61    |         Discrete Structures        |  4.0  | COMSCI 181    | Formal Language, Automata Theory | 5.0   |
+|    MATH 170E  |       Probability & Statistics     |  4.0  | ENGR 96       | Autonomous Rover                 | 2.0   |
+|    PHYS 1A    |              Mechanics             |  5.0  | PHYS 1B       | Oscillations, Waves, Fields      | 5.0   |   
+
 
 > *MATH 31A/B, COMSCI 32/181, and PHYS 1A credits received from AP and Summer classes*
 
@@ -101,12 +104,14 @@ In total, I've earned **19.00** credits and a GPA of **4.00 (UW)** so far.
 
     In addition, here's some of what I've been up to at UCLA:
 
+    * **ACM AI - Projects Officer** - Developing Cassava Leaf Disease Detection (Computer Vision), Insincere Comments Classifier (Natural Language Processing), creating RL, NLP tracks, guiding teams
+    * **ACM - Internal Affairs Director** - Organizing club-wide events, retreats, socials; Managing newsletter 
     * **Community Representative** - House 8, Canyon Point, Programming Committee (lounge decor, events, etc.)
-    * **ACM AI - Projects Intern** - Developing Cassava Leaf Detection, creating RL track, guiding teams
+    * **Team Member/Participant** - UCLA Hack on the Hill (Winter '22), LA Hacks (Spring '22)
     * **ACM Member/Workshop Attendee** - AI, Cyber, Hack, General
     * **General Member** - Disney Club, Google Student Developer Club
 
 
-*With four more years to go, you can count on many more additions and details coming soon!*
+*With three years to go, you can count on many more additions and details coming soon!*
 
 &nbsp; &nbsp;
